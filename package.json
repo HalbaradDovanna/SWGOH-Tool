@@ -1,0 +1,15 @@
+{
+  "name": "galactic-requisitions",
+  "version": "1.0.0",
+  "description": "SWGOH gear + relic material requisition calculator",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
